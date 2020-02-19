@@ -20,5 +20,8 @@ After the conclusion of event on 31st May 2020 the leaderboards of the mentors w
 
 ## My project: Spotify Recommendation Engine
 I am glad to announce that I am a project admin in this year's GSSOC. My [project](ucalyptus.github.io/Spotify-Recommendation-Engine/) is on creating a recommendation engine for Spotify. 
+## Project Intro on Youtube
+This video should serve as an intro for my project Spotify Recommendation Engine . This project has been selected in Girlscript Summer of Code 2020 and previously in KWoC and JMoC . [Link to Video](https://youtu.be/otrW8brCAiU) .
 
 ## Follow GirlScript on [Twitter](https://twitter.com/girlscriptsoc).
+
