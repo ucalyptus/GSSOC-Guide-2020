@@ -23,5 +23,9 @@ I am glad to announce that I am a project admin in this year's GSSOC. My [projec
 ## Project Intro on Youtube
 This video should serve as an intro for my project Spotify Recommendation Engine . This project has been selected in Girlscript Summer of Code 2020 and previously in KWoC and JMoC . [Link to Video](https://youtu.be/otrW8brCAiU) .
 
+
+## How to Contribute
+[Watch these set of videos](ucalyptus.github.io/Youtube)
+
 ## Follow GirlScript on [Twitter](https://twitter.com/girlscriptsoc).
 
