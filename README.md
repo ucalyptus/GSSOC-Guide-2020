@@ -25,7 +25,7 @@ This video should serve as an intro for my project Spotify Recommendation Engine
 
 
 ## How to Contribute
-[Watch these set of videos](ucalyptus.github.io/Youtube)
+[Watch these set of videos](https://ucalyptus.github.io/Youtube)
 
 ## Follow GirlScript on [Twitter](https://twitter.com/girlscriptsoc).
 
